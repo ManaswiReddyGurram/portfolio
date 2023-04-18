@@ -8,7 +8,7 @@
 position: relative;
 width: 100%;
 height: 100vh;
-background-color: #f0eeee;
+background-color: #f0eeee
 
 }
 nav{
@@ -39,6 +39,7 @@ nav ul li{
     margin: left 8px;
     margin-top: 8px;
     font-size:small;
+    padding-top:120px ;
 
  }
  .detail h1{
@@ -72,19 +73,19 @@ nav ul li{
    font-size: large;
  }
  .image{
-   width: 20%;
-    height: 58%;
+   width: 37%;
+    height: 66%;
     position: absolute;
-    right: 300px;
-    bottom: 100px;
+    right: 296px;
+    bottom: 29px;
  }
  .image img {
    position:absolute;
-   height: 100%;
-   width: 140%;
-   left: 40%;
- transform: translate(-20%);
-   bottom: 0;
+   height: 96%;
+   width: 131%;
+   left: 41%;
+ transform: translate(-18%);
+   bottom: 2px;
  }
  .contactform{
    font-family:'Courier New', Courier, monospace;
@@ -93,4 +94,8 @@ nav ul li{
  .contactform h1{
    font-family: 'Source Code Pro', monospace;
    text-align: center;
+ }
+ .logo{
+  height: 20vh;
+  width: 17vw;
  }
