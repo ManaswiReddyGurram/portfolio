@@ -1,0 +1,15 @@
+*{ box-sizing: border-box}
+.container{
+    width: 100%; 
+    background-color: #ddd;    
+}
+.skills{
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(224, 64, 64);
+}
+.le{width: 90%; background-color: blue;}
+.cs{width: 90%; background-color: blueviolet;}
+.ok{ width: 85%; background-color: black;}
+.ps{width: 90%; background-color: aquamarine;}
